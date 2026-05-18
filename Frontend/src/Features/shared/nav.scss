@@ -1,0 +1,15 @@
+.nav-bar{
+    width: 100%;
+    padding-block: 0.5rem;
+}
+
+.nav-content{
+    max-width: 430px;
+    margin: 0 auto;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding-inline: 1rem;
+}
